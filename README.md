@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vithika Karan</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+
 
 - 🌱 I’m currently learning **Data Science, Machine and Deep Learning.**
 
