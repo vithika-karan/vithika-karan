@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vithika Karan</h1>
 
 
-- 🌱 I’m currently learning **Data Science, Machine and Deep Learning.**
+- 🌱 I’m currently learning and implementing **Data Science, Machine and Deep Learning.**
 
 - 📝 I regularly write articles on [https://medium.com/@vithika16k](https://medium.com/@vithika16k)
 
