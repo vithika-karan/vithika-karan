@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and implementing **Data Science, Machine and Deep Learning.**
 
-- 📝 I regularly write articles on [https://medium.com/@vithika16k](https://medium.com/@vithika16k)
+- 📝 I write articles on [https://medium.com/@vithika16k](https://medium.com/@vithika16k)
 
 - 📫 How to reach me **vithika16k@gmail.com**
 
