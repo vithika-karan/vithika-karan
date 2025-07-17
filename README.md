@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 <ul>
 <li><strong>MS in Data Science and Management</strong> from <strong>IIT Indore & IIM Indore</strong> | <strong>AI Engineer</strong> with 3+ years of experience</li>
-<li>Currently designing and deploying production-ready ML systems with 25%+ efficiency improvements</li>
+<li>Currently designing and deploying production-ready ML systems </li>
 <li>Building multimodal AI agents, RAG systems, and intelligent chatbots using LangChain/LangGraph</li>
-<li>Developing agentic AI systems with autonomous decision-making capabilities using Autogen and CrewAI</li>
-<li>Leading 10+ developers on GenAI initiatives and organized 8 coding workshops</li>
+<li>Developing agentic AI systems with autonomous decision-making capabilities using Langgraph,  Autogen and CrewAI</li>
 <li>I write articles on <a href="https://medium.com/@vithika16k">https://medium.com/@vithika16k</a></li>
 <li>How to reach me <a href="mailto:vithika16k@gmail.com">vithika16k@gmail.com</a></li>
  <li>Currently exploring:</strong> Advanced RAG Architectures, Multimodal AI Systems, AI Agent Frameworks, and MLOPs</a></ul></li>
